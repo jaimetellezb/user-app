@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-parameter-store, aws-v2-sdk, data, data-jdbc, gradle, jdbc-hikari, jrebel, junit, kotlin, kotlin-application, kotlin-extension-functions, logback, management, micrometer, micrometer-datadog, mysql, openapi, readme, security-annotations, security-jwt, shade, testcontainers, yaml]
